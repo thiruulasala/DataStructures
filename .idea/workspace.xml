@@ -33,49 +33,55 @@
     "last_opened_file_path": "C:/Users/thiru/IdeaProjects/DataStructures"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BigON2N">
-    <configuration name="BigON2N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BigON2N" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="DiffTermsForInput1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiffTermsForInput1" />
       <module name="BigO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DropConstant" />
-      <module name="DataStructures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dropconstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dropconstant" />
+    <configuration name="DropNon_Dominants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DropNon_Dominants" />
       <module name="BigO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintItems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintItems" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="BigO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo1" />
+    <configuration name="NLogNTIme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NLogNTIme" />
       <module name="BigO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pow" />
+      <module name="BigO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BigON2N" />
-        <item itemvalue="Application.Dropconstant" />
-        <item itemvalue="Application.PrintItems" />
-        <item itemvalue="Application.DropConstant" />
-        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.pow" />
+        <item itemvalue="Application.NLogNTIme" />
+        <item itemvalue="Application.DropNon_Dominants" />
+        <item itemvalue="Application.DiffTermsForInput1" />
       </list>
     </recent_temporary>
   </component>
